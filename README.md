@@ -7,7 +7,8 @@ A collection of my solutions to various coding problems from diffrent platforms.
 ### Project Euler
 
 problem-001: Solved in [Python] (Easy) <br />
-problem-002: Solved in [Python] (Easy)
+problem-002: Solved in [Python] (Easy) <br />
+problem-003: Solved in [Python] (Easy)
 
 
 ### Lettcode
